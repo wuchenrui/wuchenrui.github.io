@@ -1,0 +1,74 @@
+main:
+  - title: "Spatio-temporal Heterogeneous Federated Learning for Time Series Classification with Multi-view Orthogonal Training"
+    authors: <strong>Chenrui Wu</strong>, Haishuai Wang, Xiang Zhang, Zhen Fang, Jiajun Bu
+    conference_short: MM'24
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3680733
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publications/mm24.png
+
+
+  - title: "FedTSA: A Cluster-based Two-Stage Aggregation Method for Model-heterogeneous Federated Learning"
+    authors: Boyu Fan, <strong>Chenrui Wu</strong>, Xiang Su, Pan Hui
+    conference_short: ECCV'24
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://eccv.ecva.net/virtual/2024/poster/2323
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publications/eccv24.png
+
+  - title: "Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data"
+    authors: Rongyu Zhang*, Yun Chen*, <strong>Chenrui Wu*</strong>, Fangxin Wang, Bo Li
+    conference_short: TMC'24
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10547356
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publications/tmc24.png
+
+  - title: "Optimizing Efficient Personalized Federated Learning with Hypernetworks at Edge"
+    authors: Rongyu Zhang, Yun Chen, <strong>Chenrui Wu</strong>, Fangxin Wang, Jiangchuan Liu
+    conference_short: Network'23
+    conference: IEEE Network, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10293196
+    image: ./assets/img/publications/network.png
+
+  - title: "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients"
+    authors: <strong>Chenrui Wu</strong>, Zexi Li, Fangxin Wang, Chao Wu
+    conference_short: ICME'23
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10219725
+    image: ./assets/img/publications/icme23-0.png
+    notes: Oral Presentation
+
+  - title: "Cluster-driven GNN-based Federated Recommendation with Biased Message Dropout"
+    authors: Rongyu Zhang, Yun Chen, <strong>Chenrui Wu</strong>, Fangxin Wang
+    conference_short: ICME'23
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10219619
+    image: ./assets/img/publications/icme23-1.png
+
+  - title: "FedAB: Truthful Federated Learning with Auction-based Combinatorial Multi-armed Bandi"
+    authors: <strong>Chenrui Wu</strong>, Yifei Zhu, Rongyu Zhang, Yun Chen, Fangxin Wang, Shuguang Cui
+    conference_short: IoTJ'23
+    conference: IEEE Internet of Things Journal <strong>(IoTJ)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10092911
+    image: ./assets/img/publications/iotj23.png
+
+  - title: "DSFL: Decentralized Satellite Federated Learning for Energy-aware LEO Constellation Computing"
+    authors: <strong>Chenrui Wu</strong>, Yifei Zhu, Fangxin Wang
+    conference_short: Satellite'22
+    conference: IEEE International Conference on Satellite Computing <strong>(Satellite)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10092560
+    image: ./assets/img/publications/satellite22.png
+    notes: Oral Presentation
+
+  
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
