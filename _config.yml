@@ -24,8 +24,8 @@ cv_link: assets/files/curriculum_vitae.pdf
 # The favicon is generated from https://favicon.io/favicon-generator/, with
 # circle background, prompt font with 400 italic, and 80 font size.
 avatar: ./assets/img/chenrui.jpg
-favicon: ./assets/img/badge.png
-favicon_dark: ./assets/img/badge.png
+favicon: ./assets/img/n_bw.png
+favicon_dark: ./assets/img/n_bw.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
