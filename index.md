@@ -20,13 +20,13 @@ Learning, Cloud & Edge Computing and Artificial Intelligence.
 - **Large Language Model:** efficient adaption, lightweight deployment/training
 
 ## Education
-- **Simon Fraser University**
-  - (2023.09-Present) Ph.D. in Computing Science 
-- **Zhejiang University** 
+- <img src="assets/img/sfu.png" style="width: auto;height: 20px;display: inline-block;vertical-align: middle"> **Simon Fraser University**
+  - (2023.09-Present) Ph.D. in Computing Science
+- <img src="assets/img/zju-logo.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Zhejiang University** 
   - (2023.09-Present) Ph.D. in Artificial Intelligence 
-- **The Chinese University of Hong Kong, Shenzhen**
+- <img src="assets/img/cuhk.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **The Chinese University of Hong Kong, Shenzhen**
   - (2021.09-2023.06) M.Phil. in Computer and Information Engineering 
-- **Harbin Institute of Technology**
+- <img src="assets/img/hit.png" style="width: 30px;height: auto;display: inline-block;vertical-align: middle"> **Harbin Institute of Technology**
   - (2017.09-2021.06) B.Eng. in Software Engineering 
 
 {% include_relative _includes/publications.md %}
