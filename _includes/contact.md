@@ -9,5 +9,5 @@
 <br />
 <strong>Email(optional):</strong> <email> chenrui_wu (at) sfu (dot) ca</email>
 </p>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xq0gdubogwFVAOaud_LRtsafeOzo68hxAkLk5tAISNE&cl=ffffff&w=a"></script>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xq0gdubogwFVAOaud_LRtsafeOzo68hxAkLk5tAISNE"></script>
