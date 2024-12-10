@@ -1,4 +1,12 @@
 main:
+ - title: "Cluster based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning"
+    authors: Xianda Wang, Yaqi Qiao, Duo Wu, <strong>Chenrui Wu</strong>, Fangxin Wang 
+    conference_short: AAAI'25
+    conference: The Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    #pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3680733
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publications/aaai25.png
+    
   - title: "Spatio-temporal Heterogeneous Federated Learning for Time Series Classification with Multi-view Orthogonal Training"
     authors: <strong>Chenrui Wu</strong>, Haishuai Wang, Xiang Zhang, Zhen Fang, Jiajun Bu
     conference_short: MM'24
