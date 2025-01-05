@@ -1,6 +1,6 @@
 main:
   - title: "Cluster based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning"
-    authors: Xianda Wang, Yaqi Qiao, Duo Wu, <strong>Chenrui Wu</strong>, Fangxin Wang 
+    authors: Xianda Wang*, Yaqi Qiao*, Duo Wu*, <strong>Chenrui Wu</strong>, Fangxin Wang 
     conference_short: AAAI'25
     conference: The Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     # pdf: 
