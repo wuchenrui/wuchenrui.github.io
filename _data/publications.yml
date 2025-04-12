@@ -3,7 +3,7 @@ main:
     authors: Xianda Wang*, Yaqi Qiao*, Duo Wu*, <strong>Chenrui Wu</strong>, Fangxin Wang 
     conference_short: AAAI'25
     conference: The Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    # pdf: 
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/35426
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/aaai25.png
     
