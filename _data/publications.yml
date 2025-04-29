@@ -3,7 +3,7 @@ main:
     authors: <strong>Chenrui Wu</strong>, Zexi Li, Fangxin Wang, Hongyang Chen, Jiajun Bu, Haishuai Wang
     conference_short: TMC'25
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
-    #pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3680733
+    pdf: https://ieeexplore.ieee.org/abstract/document/10978084
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/tmc25.jpeg
 
