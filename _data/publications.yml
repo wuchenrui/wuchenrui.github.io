@@ -1,4 +1,12 @@
 main:
+  - title: "Efficient Personalized Adaptation for Physiological Signal Foundation Model"
+    authors: <strong>Chenrui Wu</strong>, Haishuai Wang, Xiang Zhang, Chengqi Zhang, Jiajun Bu
+    conference_short: ICML'25
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    # pdf: 
+    # bibtex: 
+    image: ./assets/img/publications/icml25.png
+    
   - title: "Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models"
     authors: <strong>Chenrui Wu</strong>, Zexi Li, Fangxin Wang, Hongyang Chen, Jiajun Bu, Haishuai Wang
     conference_short: TMC'25
