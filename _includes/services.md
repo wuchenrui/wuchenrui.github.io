@@ -5,6 +5,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>ICCV 2025</li>
   <li>ICML 2025</li>
   <li>WWW 2025</li>
   <li>ICLR 2025</li>
@@ -15,8 +16,10 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-   <li>IEEE Transactions on Service Computing</li>
+  <li>IEEE Transactions on Service Computing</li>
   <li>IEEE Transactions on Mobile Computing</li>
+  <li>IEEE Transactions on Artificial Intelligence</li>
+  <li>IEEE Transactions on Aerospace and Electronic Systems</li>
   <li>IEEE Internet of Things Journal</li>
   <li>IEEE Network</li>
 </ul>
