@@ -23,4 +23,5 @@
   <li>IEEE Transactions on Cognitive Communications and Networking</li>
   <li>IEEE Internet of Things Journal</li>
   <li>IEEE Network</li>
+  <li>ACM Transactions on Computing for Healthcare</li>
 </ul>
