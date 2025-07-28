@@ -16,8 +16,9 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>IEEE Transactions on Service Computing</li>
   <li>IEEE Transactions on Mobile Computing</li>
+  <li>IEEE Transactions on Communications</li>
+  <li>IEEE Transactions on Service Computing</li>
   <li>IEEE Transactions on Artificial Intelligence</li>
   <li>IEEE Transactions on Aerospace and Electronic Systems</li>
   <li>IEEE Transactions on Cognitive Communications and Networking</li>
