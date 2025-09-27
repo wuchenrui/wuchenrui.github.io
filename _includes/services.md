@@ -9,7 +9,7 @@
   <li>ICML 2025</li>
   <li>WWW 2025</li>
   <li>ICLR 2025</li>
-  <li>NeurIPS 2024</li>
+  <li>NeurIPS 2024,2025</li>
   <li>ACM Multimedia 2024</li>
 </ul>
 
@@ -22,6 +22,7 @@
   <li>IEEE Transactions on Artificial Intelligence</li>
   <li>IEEE Transactions on Aerospace and Electronic Systems</li>
   <li>IEEE Transactions on Cognitive Communications and Networking</li>
+  <li>IEEE Transactions on Network Science and Engineering</li>
   <li>IEEE Internet of Things Journal</li>
   <li>IEEE Network</li>
   <li>ACM Transactions on Computing for Healthcare</li>
