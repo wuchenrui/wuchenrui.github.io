@@ -11,7 +11,7 @@
   <li>WWW 2025</li>
   <li>ICLR 2025</li>
   <li>NeurIPS 2024,2025</li>
-  <li>ACM Multimedia 2024</li>
+  <li>ACM MM 2024</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
