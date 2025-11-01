@@ -17,7 +17,7 @@ Learning, Cloud & Edge Computing and Artificial Intelligence.
 ## Research Interests
 
 - **Federated Learning:** personalization, robustness under imperfect data
-- **Large Language Model:** efficient adaption, lightweight deployment/training
+- **Large Language Model:** efficient adaptation, lightweight deployment/training
 
 ## Education
 - <img src="assets/img/sfu.png" style="width: auto;height: 20px;display: inline-block;vertical-align: middle"> **Simon Fraser University**
