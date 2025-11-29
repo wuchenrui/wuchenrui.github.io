@@ -7,7 +7,7 @@
 <ul style="margin:0 0 5px;">
   <li>AAAI 2026</li>
   <li>ICCV 2025</li>
-  <li>ICML 2025</li>
+  <li>ICML 2025,2026</li>
   <li>WWW 2025</li>
   <li>ICLR 2025</li>
   <li>NeurIPS 2024,2025</li>
@@ -19,7 +19,8 @@
 <ul style="margin:0 0 5px;">
   <li>IEEE Transactions on Communications (TCOM)</li>
   <li>IEEE Transactions on Mobile Computing (TMC)</li>
-  <li>IEEE Transactions on Service Computing  (TSC)</li>
+  <li>IEEE Transactions on Service Computing (TSC)</li>
+   <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
   <li>IEEE Transactions on Cloud Computing  (TCC)</li>
   <li>IEEE Transactions on Artificial Intelligence  (TAI)</li>
   <li>IEEE Transactions on Aerospace and Electronic Systems  (TAES)</li>
