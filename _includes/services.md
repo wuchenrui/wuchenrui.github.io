@@ -7,9 +7,9 @@
 <ul style="margin:0 0 5px;">
   <li>AAAI 2026</li>
   <li>ICCV 2025</li>
-  <li>ICML 2025,2026</li>
+  <li>ICML 2025</li>
   <li>WWW 2025</li>
-  <li>ICLR 2025</li>
+  <li>ICLR 2025,2026</li>
   <li>NeurIPS 2024,2025</li>
   <li>ACM MM 2024</li>
 </ul>
