@@ -20,13 +20,14 @@
   <li>IEEE Transactions on Communications (TCOM)</li>
   <li>IEEE Transactions on Mobile Computing (TMC)</li>
   <li>IEEE Transactions on Service Computing (TSC)</li>
-   <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>IEEE Transactions on Networking(ToN)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
   <li>IEEE Transactions on Cloud Computing  (TCC)</li>
-  <li>IEEE Transactions on Artificial Intelligence  (TAI)</li>
-  <li>IEEE Transactions on Aerospace and Electronic Systems  (TAES)</li>
+  <li>IEEE Transactions on Artificial Intelligence (TAI)</li>
+  <li>IEEE Transactions on Aerospace and Electronic Systems (TAES)</li>
   <li>IEEE Transactions on Cognitive Communications and Networking  (TCCN)</li>
-  <li>IEEE Transactions on Network Science and Engineering  (TNSE)</li>
-  <li>IEEE Internet of Things Journal  (IOTJ)</li>
+  <li>IEEE Transactions on Network Science and Engineering (TNSE)</li>
+  <li>IEEE Internet of Things Journal (IOTJ)</li>
   <li>IEEE Network</li>
   <li>ACM Transactions on Computing for Healthcare</li>
 </ul>
