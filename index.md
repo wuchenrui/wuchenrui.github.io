@@ -34,4 +34,7 @@ Learning, Cloud & Edge Computing and Artificial Intelligence.
 
 {% include_relative _includes/awards.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/contact.md %}
+
