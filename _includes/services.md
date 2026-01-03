@@ -21,6 +21,7 @@
   <li>IEEE Transactions on Mobile Computing (TMC)</li>
   <li>IEEE Transactions on Service Computing (TSC)</li>
   <li>IEEE Transactions on Networking (ToN)</li>
+   <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
   <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
   <li>IEEE Transactions on Cloud Computing  (TCC)</li>
   <li>IEEE Transactions on Artificial Intelligence (TAI)</li>
